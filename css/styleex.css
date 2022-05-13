@@ -1,0 +1,1046 @@
+
+
+
+
+.row {
+    margin-right: 50px;
+}
+
+.row {
+    --bs-gutter-x: 0;
+    --bs-gutter-y: 0;
+
+}
+
+.col{
+    padding: 10px 30px 50px;
+
+} 
+
+
+*,*:before,*:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+   
+}
+body {
+  
+    margin: 0px ;
+   
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+h1,h1,h3,h4,h5,h6{
+    margin: 0;
+}
+.container{
+  max-width: 1200px;
+ 
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header{
+    
+    background-color: #FAFAFA;
+}
+.header__logo img{
+    width: 80px;
+    height: 70px;
+}
+
+.header__wrapper {
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header__block{
+    width: 20%;
+}
+
+.header__block:last-child{
+    text-align: right;
+}
+
+.nav {
+
+    display: flex;
+}
+
+.nav__link{
+    
+    margin-right: 35px;
+    color: #1B1A1A;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+    position: relative;
+}
+.nav__link::after{
+    width: 100%;
+    height: 2px;
+    background-color: #1B1A1A;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    content: '';
+    opacity: 0;
+    transition: opacity .2s ease;
+}
+.nav__link:last-child{
+    margin-right: 0;
+}
+.nav__link:hover:after{
+    opacity: 1;
+}
+.nav__link.active:after{
+    opacity: 1;
+}
+
+.header__lng {
+display: flex;
+justify-content: flex-end;
+}
+.header__lng-link{
+    margin-right: 8px;
+  font-weight: 600;
+    color: #AAA1A1;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}
+.header__lng-link:last-child{
+    margin-right: 0; 
+}
+.header__lng-link.active{
+    color: #1B1A1A;;
+
+}
+
+/* Header end */
+
+/* Intro Start */
+.intro {
+    background: url('../img/intrrooo\ 1.png');
+    background-size: cover;
+
+}
+.intro__content{
+    height:710px;
+    display: flex;
+    align-items: center;
+}
+.intro__block{
+margin-top: -100px;
+margin-left: -50px;
+}
+.intro__title{
+   
+   padding: 0;
+    max-width: 500px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 70px;
+    text-transform: uppercase;
+
+}
+
+.intro__title__min, .intro__title__min__xs {
+    margin-top: 70px;
+    
+width: 509px;
+height: 98px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FAFAFA;
+}
+
+
+.intro__title_note{
+    position: absolute;
+width: 93px;
+height: 24px;
+margin-top: 200px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+letter-spacing: 0.4px;
+
+color: #1B1A1A;
+
+}
+/* Intro End */
+
+/* Our Site Start */
+.about__us{
+background-color:#171616 ;
+
+}
+.stopwar{
+   
+width: 93px;
+height: 24px;
+margin-top: 30px;
+
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
+letter-spacing: 0.4px;
+
+color: #1B1A1A;
+margin-left: -30px;
+
+}
+
+.block__title__min{
+    padding-top: 50px;
+    text-align: center;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 42px;
+color: #1B1A1A;
+
+
+}
+.paragraph1{
+    padding: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;    
+    margin-left: auto; 
+    margin-right: auto;
+    margin-bottom: 0; 
+    color: #1B1A1A;
+
+
+}
+
+.paragraph1:last-child{
+    padding-bottom: 100px;
+}
+
+
+/* Our Site End */
+
+/* Karusel start */
+.karusel {
+    height: 800px;
+    background-color: #E5DEDE;
+    ;
+}
+/* Karusel End */
+/* shelters */
+.shelters{
+    height: 600px;
+    background-color: #E5DEDE;
+}
+
+.title__shelters{
+   
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 42px;
+text-align: center;
+color: #1B1A1A;
+margin-top: 50px;
+margin-bottom: 120px;
+}
+
+
+.row{
+    
+    margin-left: 50px;
+}
+.title__shelters__min{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 14px;
+text-align: center;
+
+margin-top: 70px;
+margin-left: -30px;
+color: #645C55;
+padding-bottom: 100px;
+}
+
+/* Shelters End */
+
+/* Info Start*/
+.information{
+  
+    background-color: #403E3B;
+   
+}
+
+
+
+.title__information{
+    color:#171616;
+    padding-top: 100px;
+    text-align: center;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 39px;
+line-height: 42px;
+
+margin-bottom: 50px;
+}
+
+
+.paragraph2{
+    
+    
+    padding: 10px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 25px;
+    /* or 104% */
+    
+    text-align: center;
+    
+    
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 0;
+color: #171616;
+}
+
+.paragraph2:last-child{
+    padding-bottom: 50px;
+}
+
+ 
+
+/* Info End */
+
+.photo{
+    height: 758px;
+    background: url('../img/0x0\ \(1\).jpg') no-repeat;
+    background-size: cover;
+}
+
+
+
+
+.text__hero .title__information{
+     margin-bottom: 50px;
+}
+
+.bar{
+    height: 266px;
+    background-color: #403E3B;
+}
+
+
+.col .hero img{
+    padding-bottom: 30px ;
+}
+
+/* Karusel */
+
+/* Собственно сам слайдер */
+.slider{
+    max-width: 90%;
+    /* Положение элемента устанавливается относительно его исходной позиции: */
+    position: relative;
+    /* Центрируем по горизонтали: */
+    margin: auto;
+    height: 500px;
+    margin-top: 50px;
+     margin-bottom: 20px;
+}
+
+/* Картинка масштабируется по отношению к родительскому элементу: */
+.slider .item img {
+    /* Элемент меняет размер так, чтобы заполнить блок и сохранить пропорции: */
+    object-fit: cover;
+    width: 100%;
+    height: 500px;
+}
+   
+
+/* Кнопки вперед и назад */
+.slider .prev, .slider .next {
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+}
+
+
+.slider .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+
+/* При наведении на кнопки добавляем фон кнопок */
+
+.slider .prev:hover,
+.slider .next:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+
+/* Заголовок слайда */
+.slideText {
+    text-align: center;
+    position: absolute;
+    color: #fff;
+    font-size: 35px;
+    /* Выравнивание текста по горизонтали и по вертикали*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    /* Тень*/
+    text-shadow: 1px 1px 1px #000, 0 0 1em #000;
+}
+
+
+/* Кружочки */
+
+.slider-dots {
+  text-align: center;
+ 
+}
+.slider-dots_item{
+    cursor: pointer;
+    height: 12px;
+    width: 12px;
+    margin: 0 2px;
+    background-color: #ddd;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active,
+.slider-dots_item:hover {
+    background-color: #aaa;
+}
+
+
+/* Анимация слайдов */
+
+.slider .item {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+    to {
+        opacity: 1
+    }
+}
+
+/* Footer */
+footer{
+    
+    background-color: #403E3B;
+
+}
+
+.footer__wrapper{
+    height: 150px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+
+.copyright{
+    color: black;
+    letter-spacing: 0.15em;
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+.footer__soc{
+    display: flex;
+}
+
+.footer__soc__link{
+    margin-top: -10px;
+    margin-right: 20px;
+
+}
+
+.footer__soc__link:last-child{
+    margin-right: 0;
+}
+
+.footer__soc__link img{
+    height: 25px;
+}
+/* Footer */
+
+
+.warslide__wrapper{
+    height: 800px;
+    display: flex;
+    align-items: center;
+    
+    justify-content: space-between;
+}
+
+
+
+
+
+
+/* IndexShelters */
+
+.Borodyanka{
+    background-color: #FAFAFA;
+}
+
+.information__Borodyanka{
+   
+    margin-top: 50px;
+}
+
+.paragraph3{
+
+    color:#1B1A1A ;
+    padding: 10px;
+  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;
+    margin-left: auto;
+margin-right: auto;
+
+
+
+}
+
+.paragraph3:last-child{
+    padding-bottom: 0px;
+    padding-top: 10px;
+    margin-top: -20px;
+}
+
+.warslide__wrapper1{
+    padding-top: 100px;
+    background-color: #FAFAFA;
+}
+.text__Kyiv{
+    
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 70px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+
+.kharkov__img{
+
+    height: 600px;
+    width: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.text__Kharkov{
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 70px;
+        text-align: center;
+        margin: auto;
+        
+    }
+    
+
+
+
+
+ 
+
+
+/* Intro2 */
+.intro__inform {
+    background: url('../img/intro3.jpg');
+    background-size: cover;
+
+}
+
+.intro__block1{
+    margin-top: -100px;
+    margin-left: -50px;
+    }
+
+.intro__content1{
+    height:800px;
+    display: flex;
+    align-items: center;
+}
+
+.intro__title1{
+   
+    padding: 0;
+     max-width: 417px;
+     font-family: 'Montserrat';
+     font-style: normal;
+     font-weight: 600;
+     font-size: 64px;
+     line-height: 70px;
+     text-transform: uppercase;
+     color: #FAFAFA;
+ 
+ }
+
+
+
+ .intro__title__min1 {
+    margin-top: 70px;
+    position: absolute;
+width: 509px;
+height: 98px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #FAFAFA;
+}
+
+ .inf__text__min{
+    color:#1B1A1A ;
+    padding: 10px;
+    padding-top: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+margin-top: 100px;
+
+
+ }
+ 
+ .container__help{
+    background-color: #E5DEDE; 
+     padding-top: 100px; margin-bottom: 0; padding-bottom: 50px;
+
+     
+ }
+
+ .container__help .col{
+     padding-bottom: 50px;
+
+ }
+
+ .text__help__evacuating{
+    padding: 0;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 54px;
+    line-height: 70px;
+    text-transform: uppercase;
+    color: #1B1A1A;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    text-align: center;
+    margin-top: 150px
+ }
+
+ .source{
+     text-decoration: none;
+    padding: 0;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: #1B1A1A;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 70px;
+    text-align: center;
+   
+    
+ }
+
+ .addition__help{
+    color:#1B1A1A ;
+    padding: 10px;
+    padding-top: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+    text-align: center;
+    margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+margin-top: -100px;
+
+ }
+
+
+ /* CSS */
+
+ 
+
+
+ .intro3 {
+    background: url('../img/intro__lviv.png');
+    background-size: cover;
+ }
+
+
+.text__min__Lviv{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+
+
+.touching__story{
+    text-align: center;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 42px;
+
+    
+}
+
+.text__story{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+margin-bottom: 50px;
+margin-top: 0px;
+}
+
+    /* Anim cont End */
+
+    /* UA */
+
+    .intro4 {
+        background: url('../img/intro__ua\ 1\ \(2\).png');
+        background-size: cover;
+     }
+
+
+   .intro__title4{ font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 70px;
+padding-top: 50px;
+color: #FAFAFA;
+text-align: center;
+margin-top: -250px;
+/* or 110% */
+
+   }
+
+   .intro__block4{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #FFFFFF;
+   
+   }
+   .intro__block7{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #FFFFFF;
+   
+   }
+
+   .intro__content7{
+    height:710px;
+    display: flex;
+    align-items: center;
+}
+
+   
+
+   .intro5{
+    background: url('../img/image\ 18.png');
+    background-size: cover;
+    margin: 0;
+   }
+
+   /* shel */
+ 
+
+  .row {
+    margin-left: 0px;
+    margin-right: 0;
+}
+
+.logo__shelters{
+display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+  .logo{
+    width: 200px ; height: 160px;
+ margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+
+  button{
+      margin-left: auto;
+      margin-right: auto;
+      
+      margin-bottom: -50px;
+  }
+
+  .btn-primary:hover,
+.btn-primary:focus {
+  color: #ffffff;
+  background-color: #8eb9ff;
+  border-color: #2546b0;
+}
+
+.intro6{
+    background: url('../img/image1170x530cropped.jpg');
+        background-size: cover;
+}
+
+.li__help__ukr{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* LIST #2 */
+
+
+
+.rectangle {
+counter-reset: li; 
+list-style: none; 
+font: 20px "Montserrst";
+padding: 0;
+text-shadow: 0 1px 0 rgba(255,255,255,.5);
+padding-bottom: 50px;
+}
+.rectangle a {
+position: relative;
+display: block;
+padding: .4em .4em .4em .8em;
+margin: .5em 0 .5em 2.5em;
+background: #cec6bcbe;
+color: #444;
+text-decoration: none;
+transition: all .3s ease-out;
+}
+.rectangle a:hover {background: #afa79fbe;}       
+.rectangle a:before {
+content: counter(li);
+counter-increment: li;
+position: absolute;
+left: -2.5em;
+top: 50%;
+margin-top: -1em;
+background: #645C55;
+height: 2em;
+width: 2em;
+line-height: 2em;
+text-align: center;
+font-weight: bold;
+}
+.rectangle a:after {
+position: absolute;
+content: "";
+border: .5em solid transparent;
+left: -1em;
+top: 50%;
+margin-top: -.5em;
+transition: all .3s ease-out;
+}
+.rectangle a:hover:after {
+left: -.5em;
+border-left-color: #967f7f;
+}
+
+.rectangle li{
+    font-family: "Montserrat";
+}
+
+
+.intro7{
+    background: url('../img/intro__germ.png');
+        background-size: cover;
+}
+
+.intro8{
+    background: url('../img/intro8.png');
+        background-size: cover;
+}
+
+
+/*  */
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
+
+.without{
+    text-decoration: none;
+    color: #1B1A1A;
+  }
+
+
+      
+
+  .photo__hero{
+    margin: 20px;
+      padding: 0px;
+      overflow:hidden;
+
+  }
+
+  .photo__hero img{
+      width: 100%;
+      height: 100%;
+      transition: transform 0.5s;
+
+  }
+  
+  .photo__hero:hover img{
+      transform: scale(1.1);
+  }
+
+  .element-animation {
+    margin: 2rem 0;
+    font-size: 3rem;
+    
+    /* Скроем элемент в начальном состоянии */
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  
+  .element-animation.element-show {
+    opacity: 1;
+    transition: all 1.5s;
+    transform: translateY(0%);
+  }
+
+  .container__color{
+      background-color: #FAFAFA;
+  }

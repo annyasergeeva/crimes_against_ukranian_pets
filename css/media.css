@@ -1,0 +1,902 @@
+@media  screen and (min-width: 1224px) {
+    .intro__content{
+        height: 650px;
+    
+    padding-left: 50px;}
+
+    .intro__title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .intro__block{
+        margin-top: -45px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 15px;
+        line-height: 20px;
+        width: 350px;
+        margin-top: 20px;
+    }
+
+    .intro__title_note{
+        font-size: 12px;
+        margin-top: 120px;
+        margin-left: -60px;
+
+    }
+    .paragraph1, .paragraph2{
+        
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .stopwar{
+        font-size: 12px;
+        
+    }
+    .intro__title1{
+        font-size: 60px;
+            line-height: 75px;
+            margin-left: 100px;
+            
+            margin-top: -50px;
+    }
+    
+    .intro__title__min1{
+        width: 300px;
+      
+        line-height: 30px;
+        margin-left: 100px;
+    }
+
+    .text__help__evacuating{
+        font-size: 30px;
+    }
+
+    
+    .addition__help{
+        font-size: 24px;
+    }
+
+    .intro__content7{
+        height: 700px;
+    
+    }
+    .text__min__Lviv{
+        font-size: 15px;
+        
+    }
+    
+    
+}
+
+
+@media  screen and (max-width: 1224px) {
+    .intro__content{
+        height: 600px;
+    
+    padding-left: 50px;}
+
+    .intro__content1{
+        height: 600px;
+    }
+
+    .intro__title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .intro__block{
+        margin-top: -45px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 15px;
+        line-height: 20px;
+        width: 350px;
+        margin-top: 20px;
+    }
+
+    .intro__title_note{
+        font-size: 12px;
+        margin-top: 120px;
+        margin-left: -60px;
+
+    }
+    .paragraph1, .paragraph2{
+        
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .stopwar{
+        font-size: 12px;
+        
+    }
+
+   
+    
+        .intro__title1{
+            font-size: 40px;
+                line-height: 45px;
+                margin-left: 100px;
+                width: 100px;
+        }
+        
+        .intro__title__min1{
+            width: 300px;
+          
+            line-height: 30px;
+            margin-left: 100px;
+        }
+    
+        .text__help__evacuating{
+            font-size: 25px;
+        }
+
+        
+    .addition__help{
+        font-size: 24px;
+    }
+
+    .intro__content7{
+        height: 650px;
+    
+    }
+
+    .text__min__Lviv{
+        font-size: 12px;
+        
+    }
+    
+}
+
+
+
+@media screen and (max-width: 1100px) {
+    .intro__content{
+        height: 530px;
+    
+    padding-left: 50px;}
+
+    .intro__title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .intro__block{
+        margin-top: -45px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 15px;
+        line-height: 20px;
+        width: 350px;
+        margin-top: 20px;
+    }
+
+    .intro__title_note{
+        font-size: 12px;
+        margin-top: 120px;
+        margin-left: -60px;
+
+    }
+    .paragraph1,.paragraph2{
+        
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .intro__content1{
+        height: 550px;
+    
+   }
+   .intro__title1{
+    font-size: 40px;
+    line-height: 40px;
+
+    margin-left: 100px;
+   }
+
+  
+    
+    .intro__title__min1{
+        
+        width: 300px;
+        line-height: 25px;
+        margin-left: 100px;
+    }
+
+    .text__help__evacuating{
+        font-size: 25px;
+    }
+
+    .intro__content7{
+        height: 600px;
+    
+    }
+    
+    .text__min__Lviv{
+        font-size: 12px;
+        
+    }
+}
+
+
+
+
+@media screen and (max-width: 992px){
+    .intro__content{
+        height: 530px;
+    
+    padding-left: 50px;}
+
+    .intro__title{
+        font-size: 40px;
+        line-height: 40px;
+    }
+
+    .intro__block{
+        margin-top: -45px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 15px;
+        line-height: 20px;
+        width: 350px;
+        margin-top: 20px;
+    }
+
+    .intro__title_note{
+        font-size: 12px;
+        margin-top: 120px;
+        margin-left: -60px;
+
+    }
+    .paragraph1, .paragraph2{
+        
+        font-size: 17px;
+        line-height: 25px;
+    }
+   
+    .nav__link{
+        font-size: 12px;
+        margin-top: 5px;
+    }
+
+
+    .touching__story{
+        font-size: 30px ;
+    }
+
+    .intro__content1{
+        height: 500px;
+    
+    padding-left: 50px;}
+
+    .intro__content7{
+        height: 550px;
+    
+    }
+
+
+    .intro__title__min__xs{
+        font-size: 12px;
+
+    }
+}
+
+
+@media screen and (min-width:868px) {
+    .header__xs{
+        display: none;
+    }
+    .our__hero{
+        display: none;
+    }
+    
+}
+
+
+
+@media screen and (max-width: 868px){
+    .intro__content{
+        height: 400px;
+    }
+    .block__title__min{
+        font-size: 30px;
+        
+        
+    }
+    .title__information{
+        font-size: 27px;
+    }
+
+    .text__hero, .text__Kyiv{
+        font-size: 27px;
+    }
+
+    .paragraph2{
+        font-size: 20px;
+    }
+
+    .intro__title{
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .intro__block{
+        margin-top: 50px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 10px;
+        line-height: 15px;
+        width: 200px;
+        margin-top: 10px;
+       
+    }
+
+    .intro__title_note{
+        display: none;
+
+    }
+    .paragraph1, .stopwar, .paragraph2{
+        font-size: 12px;
+        line-height: 17px;
+    }
+
+    .stopwar, .text__min__Lviv{
+        font-size: 8px;
+        
+    }
+
+    .nav{
+        display: none
+    }
+
+    .our__hero__l{
+        display: none;
+    }
+
+    
+
+    .title__shelters{
+        font-size: 25px;
+    }
+
+    .paragraph3{
+        font-size: 20px;
+        line-height: 25px;
+     }
+
+     .intro__content1{
+        height: 400px;
+        
+
+}
+
+.intro__title1{
+    font-size: 35px;
+        line-height: 35px;
+        margin-left: 50px;
+        width: 300px;
+}
+
+.intro__title__min1{
+    width: 200px;
+    font-size: 10px;
+    line-height: 15px;
+    margin-left: 50px;
+}
+
+.intro__content7{
+    height: 500px;
+
+}
+
+.intro__title__min__xs{
+    font-size: 12px;
+width: 450px;
+margin-top: -20px;
+}
+ 
+    
+}
+
+
+@media screen and (max-width:720px){
+    .intro__content1{
+        height: 350px;
+    
+    }
+
+    .inf__text__min{
+        font-size: 20px
+    }
+
+    
+    
+    
+    
+    .addition__help{
+        font-size: 20px;
+    }
+    
+    .intro__content7{
+        height: 400px;
+    
+    }
+    
+    
+
+}
+
+@media screen and (max-width: 640px){
+    .intro__content{
+        height: 360px;
+    }
+    .paragraph1, .paragraph2{
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    .block__title__min{
+        font-size: 28px;
+        
+    }
+
+    .title__information{
+        font-size: 20px;
+    }
+
+    .slider{
+        max-width: 90%;
+        /* Положение элемента устанавливается относительно его исходной позиции: */
+        position: relative;
+        /* Центрируем по горизонтали: */
+        margin: auto;
+        height: 300px;
+    }
+    
+    /* Картинка масштабируется по отношению к родительскому элементу: */
+    .slider .item img {
+        /* Элемент меняет размер так, чтобы заполнить блок и сохранить пропорции: */
+        object-fit: cover;
+        width: 100%;
+        height: 300px;
+    }
+
+   
+
+    .text__hero{
+        font-size: 20px;
+    }
+    .body{
+        font-size: 12px;
+    }
+
+    .copyright{
+        font-size: 12px;
+    }
+
+    .footer__soc__link img{
+        height: 20px;
+    }
+
+    .intro__title{
+        font-size: 35px;
+        line-height: 35px;
+    }
+
+    .intro__block{
+        margin-top: 50px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 10px;
+        line-height: 15px;
+        width: 200px;
+        margin-top: 5px;
+    }
+ 
+    .intro__title_note{
+        font-size: 8px;
+        margin-top: 80px;
+        margin-left: -60px;
+
+    }
+
+   
+    
+    .header__wrapper{
+        height: 70px;
+    }
+
+    .header__logo img{
+        width: 60px;
+        height: 50px;
+    }
+
+    .text__min__Lviv{
+        font-size: 6px;
+    }
+
+    .paragraph3{
+        font-size: 15px;
+        line-height: 20px;
+     }
+
+     .intro__content1{
+        height: 300px;
+    
+    }
+ 
+    .intro__title1{
+        font-size: 25px;
+            line-height: 35px;
+            margin-left: 50px;
+            width: 200px;
+    }
+    
+    .intro__title__min1{
+        width: 150px;
+        font-size: 8px;
+        line-height: 15px;
+        margin-left: 50px;
+    }
+    
+    .intro__content7{
+        height: 350px;
+    
+    }
+    .intro__title__min__xs{
+        font-size: 10px;
+line-height: 15px;
+width: 350px;
+    }
+
+    
+}
+
+
+@media screen and (max-width: 560px){
+    .intro__content{
+        height: 300px;
+    }
+    .paragraph1,.paragraph2{
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .block__title__min{
+        font-size: 25px;
+        
+    }
+
+    .copyright{
+        font-size: 8px;
+    }
+
+    .footer__soc__link img{
+        height: 18px;
+    }
+
+
+    .intro__title{
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .intro__block{
+        margin-top: 50px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 10px;
+        line-height: 15px;
+        width: 200px;
+        margin-top: 5px;
+    }
+ 
+    .intro__title_note{
+     display: none;
+
+    }
+
+    .title__information{
+        font-size: 16px;
+    }
+    .intro__content1{
+        height: 260px;
+    
+    }
+    .intro__title1{
+        font-size: 25px;
+            line-height: 35px;
+            margin-left: 50px;
+            width: 200px;
+    }
+    
+    .intro__title__min1{
+        width: 150px;
+        font-size: 10px;
+        line-height: 15px;
+        margin-left: 50px;
+    }
+    .text__help__evacuating{
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .inf__text__min{
+        font-size: 18px;
+        margin-top: -30px;
+        margin-bottom: -50px;
+    }
+
+    .addition__help{
+        font-size: 18px;
+    }
+    
+    .intro__content7{
+        height: 300px;
+    
+    }
+}
+
+
+@media screen and (max-width: 480px){
+    .intro__content{
+        height: 250px;
+
+    }
+
+    .paragraph1, .paragraph2{
+        font-size: 8px;
+        line-height: 15px;
+    }
+    .block__title__min{
+        font-size: 22px;
+    }
+
+    .text__hero{
+        font-size: 22px;
+    }
+
+    .footer__soc__link img{
+        height: 15px;
+    }
+
+    .intro__title{
+        font-size: 25px;
+        line-height: 25px;
+    }
+
+    .intro__block{
+        margin-top: 50px;
+        width: 50px;
+    }
+
+    .intro__title__min{
+        font-size: 8px;
+        line-height: 10px;
+        margin-top: 5px;
+        width: 150px;
+    }
+    
+    .intro__title_note{
+       display: none;
+
+    }
+
+    .title__information{
+        font-size: 14px;
+        line-height: 15px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+   .logo{
+       width: 100px;
+       height: 80px;
+     
+
+   }
+   .title__shelters{
+       font-size: 15px;
+   }
+   .text__Kyiv{
+       font-size: 20px;
+   }
+   .paragraph3{
+    font-size: 10px;
+    line-height: 15px;
+ }
+ .intro__content1{
+    height: 200px;}
+
+    .intro__title1{
+        font-size: 20px;
+            line-height: 25px;
+            margin-left: 0px;
+            width: 100px;
+    }
+    
+    .intro__title__min1{
+        width: 100px;
+        font-size: 8px;
+        line-height: 10px;
+        margin-left: 0px;
+    }
+
+    .text__help__evacuating{
+        font-size: 25px;
+    }
+    
+    .inf__text__min{
+        font-size: 15px
+    }
+
+    
+    .addition__help{
+        font-size: 15px;
+    }
+    .intro__content7{
+        height: 250px;
+    
+    }
+    .intro__title__min__xs{
+        font-size: 8px;
+        line-height: 12px;
+        width: 300px;
+
+    }
+}
+
+
+@media screen and (max-width: 390px){
+   
+    .intro__content{
+        height: 200px;
+    }
+    .inrto__title{
+        
+        max-width: 100px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 10px;
+        line-height: 10px;
+        text-transform: uppercase;
+    }
+
+    .inrto__block{
+        max-width: 100px;
+    }
+
+    .intro__title__min{
+        padding: 0;
+    max-width: 50px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-transform: uppercase;
+    margin-left: 60px;
+    }
+
+    .paragraph1, .paragraph2{
+
+        font-size: 8px;
+        line-height: 15px;
+        
+        
+        
+
+    }
+    .block__title__min{
+        font-size: 20px;
+    }
+
+    .text__hero{
+        font-size: 20px;
+    }
+    
+    .copyright{
+        font-size: 6px;
+    }
+    .footer__soc__link img{
+        height: 13px;
+    }
+   
+
+    /* Lviv Shelter */
+
+    .intro__title{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .intro__block{
+        margin-top: 20px;
+        width: 50px;
+    }
+
+   
+
+    .intro__title__min, .intro__title__note{
+        display: none;
+    }
+
+    .slider{
+        max-width: 90%;
+        /* Положение элемента устанавливается относительно его исходной позиции: */
+        position: relative;
+        /* Центрируем по горизонтали: */
+        margin: auto;
+        height: 200px;
+    }
+    
+    /* Картинка масштабируется по отношению к родительскому элементу: */
+    .slider .item img {
+        /* Элемент меняет размер так, чтобы заполнить блок и сохранить пропорции: */
+        object-fit: cover;
+        width: 100%;
+        height: 200px;
+    }
+
+    .paragraph3{
+       font-size: 10px;
+       line-height: 15px;
+    }
+    .intro__content1{
+        height: 150px;}
+    
+        .intro__title1{
+            font-size: 15px;
+                line-height: 15px;
+                margin-left: 20px;
+                width: 100px;
+                margin-top: 30px;
+        }
+        
+        .intro__title__min1{
+            width: 100px;
+            font-size: 8px;
+            line-height: 10px;
+            margin-left: 20px;
+            margin-top: 30px;
+        }
+    
+        .text__help__evacuating{
+            font-size: 15px;
+        }
+
+        .inf__text__min{
+            font-size: 10px
+        }
+
+        .addition__help{
+            font-size: 10px;
+        }
+        
+        .intro__content7{
+            height: 150px;
+        
+        }
+
+        .intro__title__min__xs{
+            font-size: 6px;
+            width: 200px;
+            line-height: 10px;
+            margin-top: -70px;
+    
+        }
+}
